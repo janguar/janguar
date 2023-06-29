@@ -72,16 +72,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## Github Stats   
 
-<img src="https://github-readme-stats.vercel.app/api?username=janguar&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janguar&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=janguar&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+ 
 
 <br/>  
 
